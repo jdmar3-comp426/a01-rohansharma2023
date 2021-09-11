@@ -1,10 +1,10 @@
 
 body{
-    background-color: #20b2ab
+    background-color: #20B2AB
 }
 
 #Welcome{
-    background-color: #b0c4de
+    background-color: #B0C4DE
 
 }
 
@@ -15,6 +15,7 @@ body{
 h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: medium;
+    background-color: #E6E6FA;
 }
 
 div li{
