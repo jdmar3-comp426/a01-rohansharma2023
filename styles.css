@@ -35,3 +35,12 @@ div li{
     width: 400px;
 }
 
+h4{
+    margin-bottom: 60px;
+}
+
+.picture{
+    display: flex;
+
+    justify-content: center;
+}
