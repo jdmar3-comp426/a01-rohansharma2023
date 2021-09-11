@@ -1,12 +1,10 @@
 
 body{
-    background-color: lightseagreen;
+    background-color: #20b2ab
 }
 
 #Welcome{
-    background-color: lightsteelblue;
-
-    color: darkblue;
+    background-color: #b0c4de
 
 }
 
@@ -20,7 +18,8 @@ h3{
 }
 
 div li{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
 }
 
 .home{
@@ -31,3 +30,8 @@ div li{
 .home:hover{
     color:yellow;
 }
+
+#poem{
+    width: 400px;
+}
+
