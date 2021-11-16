@@ -1,0 +1,47 @@
+
+body{
+    background-color: #20B2AB
+}
+
+#Welcome{
+    background-color: #B0C4DE
+
+}
+
+#intro{
+    border-style: solid;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    background-color: #E6E6FA;
+}
+
+div li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+.home{
+    border-style: solid;
+
+}
+
+.home:hover{
+    color: #FFFF00;
+}
+
+#poem{
+    width: 400px;
+}
+
+h4{
+    margin-bottom: 60px;
+}
+
+.picture{
+    display: flex;
+
+    justify-content: center;
+}
